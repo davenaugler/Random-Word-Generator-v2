@@ -1,0 +1,29 @@
+body {
+    background-image: url('/static/rw_app/images/man-alone.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.blue-text {
+    color: #2980b9;
+}
+
+.low-margin {
+    margin-top: 80px;
+}
+
+.box {
+    margin-top: 20px;
+    width: 250px;
+    height: 120px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+.random-word {
+    margin-top: 20px;
+    font-size: 60px;
+    font-family: 'Raleway', sans-serif;
+}
